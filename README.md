@@ -4,9 +4,9 @@ Because most times hard copy documentation can get missing, torn or damped. Not 
 Compares Peroxide Value (PV) of Crude Palm Kernel Oil (CPKO) vs Refined Vegetable Oil (RVO) over storage time.
 
 ## Folders
-- `src/` - Python code
+- `script/` - Python code
 - `data/` - CSV data
-- `results/` - Plot
+- `plot/` - Plot
 
 ## Models
 - PV vs Days (for both oils)
